@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hariharan98m
-- 👀 I’m interested in deep learning, machine learning for biomedical data analysis.
-- 🌱 I’m currently learning data science and big data.
-- 💞️ I’m looking to collaborate on ideas for AI based clinical biomarkers detection.
+- 👀 I’m interested in deep learning, AI for society.
+- 🌱 I’m currently learning techniques to distill contextual information for faster learning.
+- 💞️ I’m looking to collaborate on ideas in neuroscience and AI performance tuning.
 - 📫 Reach me on hmanikan@cisco.com
 
 <!---
